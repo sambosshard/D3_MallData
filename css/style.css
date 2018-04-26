@@ -1,0 +1,28 @@
+html {
+	-webkit-font-smoothing: antialiased;
+  background-color: #00113d;
+}
+
+svg {
+  font: 1em sans-serif;
+  
+}
+
+text, p, table {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-decoration-color: red;
+
+}
+
+.dimmed {
+  opacity: 0.25;
+  
+}
+
+#container {
+  max-width:1000px;
+  margin: 15%; 
+ 
+}
+
+
